@@ -1,11 +1,12 @@
 h1{
   font-family: 'Montserrat', sans-serif;
   text-align: center;
+  border: dotted 5px;
 }
 p{
   text-align: center;
+  image-align: center;
 }
-div{
-  align: 0 auto;
-  border: solid 3px;
+body{
+  background-color: pink;
 }
