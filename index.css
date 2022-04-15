@@ -1,3 +1,11 @@
 h1{
   font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+div{
+  align: center;
+  border: solid 3px;
 }
